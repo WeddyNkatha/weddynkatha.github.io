@@ -306,6 +306,11 @@ img {
   max-width: 100%;
   height: auto;
 }
+#imagePath {
+  max-width: 100%;
+  height: auto;
+  box-shadow: 10px 10px 20px 0 rgba(0, 0, 0, 0.5) !important; 
+}
 @media screen and (max-width: 500px) {
   .container {
     width: 100%; /* Adjust this value based on your design */
